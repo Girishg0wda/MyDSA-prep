@@ -26,3 +26,60 @@ Problems Solved:
 - Vowel Count
 - First Repeated Character
 - Frequency Counter
+
+## Day 3 - Two Pointers
+
+Topics Learned:
+
+* Two Pointer Technique
+* Pointer Movement
+* Reverse String
+* Palindrome Check
+
+Problems Solved:
+
+* Pair Sum in Sorted Array
+* Reverse String
+* Palindrome Check
+
+## Day 4 - Sliding Window
+
+Topics Learned:
+
+* Fixed Size Sliding Window
+* Window Sum Optimization
+* Window Average Calculation
+
+Problems Solved:
+
+* Maximum Sum Subarray
+* Average of Every Window
+* Count Windows Greater Than Target
+
+## Day 5 - Stacks
+
+Topics Learned:
+
+* LIFO (Last In First Out)
+* Push and Pop Operations
+* Stack Applications
+
+Problems Solved:
+
+* Reverse String Using Stack
+* Valid Parentheses
+* Stack Basics
+
+## Day 6 - Queues
+
+Topics Learned:
+
+* FIFO (First In First Out)
+* Queue Operations
+* Enqueue and Dequeue
+
+Problems Solved:
+
+* Printer Queue
+* Ticket Counter
+* Serve Customers in Order
