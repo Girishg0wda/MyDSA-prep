@@ -1,3 +1,9 @@
+# Challenge 2
+# Count the nodes in:
+# 5 → 10 → 15 → None
+# Expected:
+# 3
+
 class Node:
     def __init__(self, data):
         self.data = data

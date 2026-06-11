@@ -1,3 +1,5 @@
+# Check whether a target value exists in the linked list.
+
 class Node:
     def __init__(self, data):
         self.data = data

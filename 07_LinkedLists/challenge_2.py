@@ -1,3 +1,8 @@
+# Challenge 1
+# Create:
+# 5 → 10 → 15 → None
+# Print all values.
+
 class Node:
     def __init__(self, data):
         self.data = data
