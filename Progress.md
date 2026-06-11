@@ -83,3 +83,17 @@ Problems Solved:
 * Printer Queue
 * Ticket Counter
 * Serve Customers in Order
+
+## Day 7 - Linked Lists
+
+Topics Learned:
+- Nodes
+- Linked List Structure
+- Traversal
+- Counting Nodes
+
+Problems Solved:
+- Create Linked List
+- Traverse Linked List
+- Count Nodes
+- Search for a Value
