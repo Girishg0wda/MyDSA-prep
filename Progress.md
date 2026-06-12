@@ -97,3 +97,19 @@ Problems Solved:
 - Traverse Linked List
 - Count Nodes
 - Search for a Value
+
+## Day 8 - Binary Search
+
+Topics Learned:
+
+* Sorted Arrays
+* Binary Search
+* Left, Right, Mid Pointers
+* Search Space Reduction
+
+Problems Solved:
+
+* Search Target
+* Exists Check
+* Find Index of Target
+* Binary Search Template
