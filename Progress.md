@@ -113,3 +113,58 @@ Problems Solved:
 * Exists Check
 * Find Index of Target
 * Binary Search Template
+
+## Day 9 - Trees
+
+Topics Learned:
+- Tree Nodes
+- Root, Parent, Child
+- Binary Trees
+- DFS Traversals
+
+Problems Solved:
+- Create Tree
+- Preorder Traversal
+- Inorder Traversal
+- Postorder Traversal
+- Count Nodes
+
+## Day 10 - Graphs
+
+Topics Learned:
+- Graph Representation
+- DFS
+- BFS
+- Adjacency List
+
+Problems Solved:
+- Graph Traversal
+- DFS Traversal
+- BFS Traversal
+
+## Day 11 - Recursion
+
+Topics Learned:
+- Recursive Functions
+- Base Case
+- Recursive Case
+- Call Stack
+
+Problems Solved:
+- Countdown
+- Factorial
+- Fibonacci
+- Recursive Sum
+
+## Day 12 - Heaps & Priority Queues
+
+Topics Learned:
+- Min Heap
+- heapify()
+- heappush()
+- heappop()
+
+Problems Solved:
+- Find Smallest Element
+- Top K Smallest Elements
+- Priority Queue Basics
