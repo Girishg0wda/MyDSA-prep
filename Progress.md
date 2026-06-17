@@ -168,3 +168,16 @@ Problems Solved:
 - Find Smallest Element
 - Top K Smallest Elements
 - Priority Queue Basics
+
+## Day 13 - Sorting Algorithms
+
+Topics Learned:
+- Bubble Sort
+- Selection Sort
+- Insertion Sort
+
+Problems Solved:
+- Sort Arrays
+- Bubble Sort Implementation
+- Selection Sort Implementation
+- Insertion Sort Implementation
