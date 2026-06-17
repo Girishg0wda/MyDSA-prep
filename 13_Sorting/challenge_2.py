@@ -1,3 +1,9 @@
+# Challenge 2
+# Use Selection Sort:
+# nums = [6, 3, 8, 1]
+# Expected:
+# [1, 3, 6, 8]
+
 nums = [6, 3, 8, 1]
 
 n = len(nums)

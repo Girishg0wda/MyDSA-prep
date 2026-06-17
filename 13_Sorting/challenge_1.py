@@ -1,3 +1,9 @@
+# Challenge 1
+# Use Bubble Sort:
+# nums = [9, 4, 2, 7]
+# Expected:
+# [2, 4, 7, 9]
+
 nums = [9, 4, 2, 7]
 
 n = len(nums)
