@@ -1,3 +1,11 @@
+# Generate all subsets of:
+# nums = [1, 2, 3]
+# Just run the subset code with this input.
+# Expected number of subsets:
+# 8
+# Because:
+# 2^3 = 8
+
 nums = [1, 2, 3]
 
 result = []

@@ -1,3 +1,10 @@
+# Generate all permutations of:
+# nums = [1, 2, 3]
+# Expected number of permutations:
+# 6
+# Because:
+# 3! = 6
+
 nums = [1, 2, 3]
 
 result = []

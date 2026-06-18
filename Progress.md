@@ -181,3 +181,15 @@ Problems Solved:
 - Bubble Sort Implementation
 - Selection Sort Implementation
 - Insertion Sort Implementation
+
+## Day 14 - Backtracking
+
+Topics Learned:
+- Backtracking
+- Choose Explore Undo
+- Subsets
+- Permutations
+
+Problems Solved:
+- Generate Subsets
+- Generate Permutations
