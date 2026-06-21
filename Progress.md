@@ -205,3 +205,27 @@ Problems Solved:
 - Fibonacci DP
 - Climbing Stairs
 - Prefix Sum Style DP
+
+## Day 16 - Greedy Algorithms
+
+Topics Learned:
+- Greedy Strategy
+- Minimum Coins
+- Activity Selection
+
+Problems Solved:
+- Coin Change (Greedy)
+- Activity Selection
+- Sorting for Greedy
+
+## Day 17 - Interview Pattern: Hash Maps
+
+Topics Learned:
+- Two Sum
+- Contains Duplicate
+- Valid Anagram
+
+Problems Solved:
+- Hash Map Lookup
+- Duplicate Detection
+- Anagram Check
