@@ -1,4 +1,4 @@
-# My DSA Interview Preparation
+# My DSA Preparation
 
 This repository tracks my Data Structures and Algorithms learning journey in Python.
 
