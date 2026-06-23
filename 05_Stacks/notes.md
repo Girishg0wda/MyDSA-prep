@@ -105,3 +105,4 @@ stack.pop()
 * Insertion and deletion occur only at the top.
 * Python lists can be used to implement stacks efficiently.
 * Stacks are widely used in recursion, expression evaluation, and backtracking algorithms.
+
