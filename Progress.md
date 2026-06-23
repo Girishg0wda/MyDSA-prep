@@ -229,3 +229,15 @@ Problems Solved:
 - Hash Map Lookup
 - Duplicate Detection
 - Anagram Check
+
+## Day 18 - Interview Pattern: Sliding Window
+
+Topics Learned:
+- Fixed Size Window
+- Dynamic Window
+- Longest Unique Substring
+
+Problems Solved:
+- Maximum Sum Subarray
+- Average of Subarrays
+- Longest Substring Without Repeating Characters
