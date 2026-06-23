@@ -65,3 +65,4 @@ Process:
 * It repeatedly divides the search space into two halves.
 * It is much faster than linear search for large datasets.
 * The search space is reduced by half in each step.
+
