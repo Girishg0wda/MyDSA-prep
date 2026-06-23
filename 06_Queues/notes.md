@@ -86,3 +86,4 @@ queue.popleft()
 * Deletion occurs at the front.
 * Python's `collections.deque` provides efficient queue operations.
 * Widely used in scheduling, buffering, and graph traversal algorithms.
+
