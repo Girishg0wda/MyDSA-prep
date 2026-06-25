@@ -241,3 +241,16 @@ Problems Solved:
 - Maximum Sum Subarray
 - Average of Subarrays
 - Longest Substring Without Repeating Characters
+
+## Day 19 - Interview Pattern: Two Pointers
+
+Topics Learned:
+- Valid Palindrome
+- Two Sum II
+- Merge Sorted Arrays
+- Container With Most Water (Introduction)
+
+Problems Solved:
+- Palindrome Check
+- Two Pointer Search
+- Merge Two Sorted Arrays
