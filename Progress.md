@@ -254,3 +254,17 @@ Problems Solved:
 - Palindrome Check
 - Two Pointer Search
 - Merge Two Sorted Arrays
+
+## Day 20 - Interview Pattern: Binary Search
+
+Topics Learned:
+- Search Insert Position
+- First Occurrence
+- Last Occurrence
+- Binary Search Boundaries
+
+Problems Solved:
+- Search Insert
+- First Occurrence
+- Last Occurrence
+- Peak Element (Introduction)
