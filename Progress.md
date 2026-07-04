@@ -268,3 +268,16 @@ Problems Solved:
 - First Occurrence
 - Last Occurrence
 - Peak Element (Introduction)
+
+## Day 21 - Interview Pattern: Linked Lists
+
+Topics Learned:
+- Reverse Linked List
+- Middle Node
+- Slow & Fast Pointers
+- Cycle Detection (Introduction)
+
+Problems Solved:
+- Traverse Linked List
+- Reverse Linked List
+- Find Middle Node

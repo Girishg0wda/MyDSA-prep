@@ -1,4 +1,4 @@
-# Mini Challenge 2
+# Challenge 2
 # Find first occurrence.
 # nums = [1, 3, 3, 3, 5]
 # target = 3

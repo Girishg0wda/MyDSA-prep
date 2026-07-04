@@ -1,4 +1,4 @@
-# Mini Challenge 1
+# Challenge 1
 # Find insert position.
 # nums = [2, 4, 6, 8]
 # target = 5
