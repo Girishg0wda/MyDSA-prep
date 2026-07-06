@@ -281,3 +281,16 @@ Problems Solved:
 - Traverse Linked List
 - Reverse Linked List
 - Find Middle Node
+
+## Day 22 - Interview Pattern: Stacks
+
+Topics Learned:
+- Valid Parentheses
+- Reverse String
+- Next Greater Element
+
+Problems Solved:
+- Parentheses Validation
+- String Reversal
+- Next Greater Element
+
